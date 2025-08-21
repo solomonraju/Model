@@ -1,0 +1,40 @@
+{
+  "qa": [
+    {
+      "q": "whos is jesus christ?",
+      "doc": "—",
+      "web": "Jesus had to be both God and man. Why should I believe that Jesus is God?",
+      "ts": "2025-08-21T14:59:02"
+    },
+    {
+      "q": "what is timemsd?",
+      "doc": "—",
+      "web": "—",
+      "ts": "2025-08-21T16:21:34"
+    },
+    {
+      "q": "what is time?",
+      "doc": "Measure the average round-trip commu nication time between scheduler and worker—that is, the time to send an as signment message and return a result message, without any task pr ocessing time intervening. Measure the average task processing time, without any communication time.3. The result is the theoretical task capacity that minimizes idle time for the worker. f time it needs. for example, when the average round-trip time is 500 milliseconds, and the average task processing time is 1 second, then setting the task capacity to 2 minimizes the worker’s idle time between tasks. for example, when average task turnaround time is 2 seconds, of which communication time contributes only 10 milliseconds to the total, then task capacity is the same as the number of processors or threads. If the message producer has a delivery delay set, then the time returned here after calling the send method represents the earliest time when the EMS server will deliver the message to consumers.",
+      "web": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events, and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions.",
+      "ts": "2025-08-21T16:24:33"
+    },
+    {
+      "q": "Can we travel time?",
+      "doc": "Measure the average task processing time, without any communication time.3. Tuning for Communication Time Lag In most distributed queue applicatio ns, the communication time is an insignificant fraction of th e task turnaround time. for example, when average task turnaround time is 2 seconds, of which communication time contributes only 10 milliseconds to the total, then task capacity is the same as the number of processors or threads. f time it needs. TIBCO Rendezvous ConceptsComplete Time|169 Complete Time The complete time parameter of the sche duler affects the reassignment of tasks: If the complete time is non-zero, the sche duler waits for a worker to complete an assigned task. Estimate the network travel time for each task at a few milliseconds.",
+      "web": "Einstein's Relativity and Time Travel NASA asserts time travel is possible through time dilation, tied to Albert Einstein's theory of relativity - which states that time and space are intertwined, with the speed of light serving as an unbreakable cosmic speed limit. Time travel may very well be real, just not in the way you'd time (BBC) Unfortunately real life is much less exciting than a Hollywood movie or cult sci-fi series, with the closest possibility for time travel showing a rather disappointing lack of time turners or the mythical stones from Outlander.",
+      "ts": "2025-08-21T16:25:24"
+    },
+    {
+      "q": "what is time travel",
+      "doc": "Measure the average round-trip commu nication time between scheduler and worker—that is, the time to send an as signment message and return a result message, without any task pr ocessing time intervening. Measure the average task processing time, without any communication time.3. Estimate the network travel time for each task at a few milliseconds. Duplicate processing does no harm (other than wasted effort). e network travel time for each task at a few milliseconds. TIBCO Rendezvous ConceptsComplete Time|169 Complete Time The complete time parameter of the sche duler affects the reassignment of tasks: If the complete time is non-zero, the sche duler waits for a worker to complete an assigned task.",
+      "web": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine.",
+      "ts": "2025-08-21T16:38:43"
+    },
+    {
+      "q": "what is dragon?",
+      "doc": "—",
+      "web": "A dragon is a magical legendary creature that appears in the folklore of multiple cultures worldwide. Beliefs about dragons vary considerably through regions, but dragons in Western cultures since the High Middle Ages have often been depicted as winged, horned, and capable of breathing fire. Dragons in eastern cultures are usually depicted as wingless, four-legged, serpentine creatures with above-average intelligence. Commonalities between dragons' traits are often a hybridization of reptilian, mammalian, and avian features.",
+      "ts": "2025-08-21T16:52:38"
+    }
+  ]
+}

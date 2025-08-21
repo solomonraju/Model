@@ -1,0 +1,27 @@
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install pymupdf pdfminer.six
+python tkinder.py
+
+
+
+
+# General Python dependencies for the Rag ChatBot project
+
+pyttsx3>=2.90
+pillow>=9.0.0
+bs4>=0.0.1
+requests>=2.25.0
+pytz
+openpyxl
+PyPDF2>=2.0.0
+python-docx
+lxml
+# Optionally for better PDF text extraction, uncomment the next two lines:
+# PyMuPDF
+# pdfminer.six
+
+# For some Linux/Windows voice systems:
+# pywin32; platform_system == "Windows"
+# python3-xlib; platform_system == "Linux"
